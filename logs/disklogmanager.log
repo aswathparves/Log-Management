@@ -13,3 +13,39 @@
 [2025-07-31 17:22:39] Disk usage at 3.9% (threshold 1%)
 [2025-07-31 17:22:39] Threshold exceeded! Starting compression...
 [2025-07-31 17:22:39] Found 6 old log files in /var/log/apache2/
+[2025-07-31 17:42:17] Disk usage at 3.9% (threshold 1%)
+[2025-07-31 17:42:18] Threshold exceeded! Starting compression...
+[2025-07-31 17:42:18] No old logs found in /var/log/apache2/
+[2025-07-31 17:42:18] Found 3 old log files in /var/www/laravel/public/logs
+[2025-07-31 17:42:18] Found 3 old log files in /var/www/laravel/storage/logs
+[2025-07-31 17:42:31] Disk usage at 3.9% (threshold 1%)
+[2025-07-31 17:42:31] Threshold exceeded! Starting compression...
+[2025-07-31 17:42:31] Found 6 old log files in /var/log/apache2/
+[2025-07-31 17:42:31] Found 3 old log files in /var/www/laravel/public/logs
+[2025-07-31 17:42:31] Found 3 old log files in /var/www/laravel/storage/logs
+[2025-07-31 17:44:06] Disk usage at 3.9% (threshold 1%)
+[2025-07-31 17:44:06] Threshold exceeded! Starting compression...
+[2025-07-31 17:44:06] Found 6 old log files in /var/log/apache2/
+[2025-07-31 17:44:06] Found 3 old log files in /var/www/laravel/public/logs
+[2025-07-31 17:44:06] Found 3 old log files in /var/www/laravel/storage/logs
+[2025-07-31 17:44:18] Disk usage at 3.9% (threshold 1%)
+[2025-07-31 17:44:18] Threshold exceeded! Starting compression...
+[2025-07-31 17:44:18] Found 6 old log files in /var/log/apache2/
+[2025-07-31 18:04:40] Disk usage at 3.9% (threshold 1%)
+[2025-07-31 18:04:40] Threshold exceeded! Starting compression...
+[2025-07-31 18:04:40] Found 5 old log files in /var/log/apache2/
+[2025-07-31 18:04:40] Found 2 old log files in /var/www/laravel/public/logs
+[2025-07-31 18:04:40] Found 2 old log files in /var/www/laravel/storage/logs
+[2025-07-31 18:07:38] Disk usage at 3.9% (threshold 1%)
+[2025-07-31 18:07:38] Threshold exceeded! Starting compression...
+[2025-07-31 18:07:38] Found 5 old log files in /var/log/apache2/
+[2025-07-31 18:07:38] Found 2 old log files in /var/www/laravel/public/logs
+[2025-07-31 18:07:38] Found 2 old log files in /var/www/laravel/storage/logs
+[2025-07-31 18:12:31] Disk usage at 3.9% (threshold 1%)
+[2025-07-31 18:12:31] Threshold exceeded! Starting compression...
+[2025-07-31 18:12:31] Found 5 old log files in /var/log/apache2/
+[2025-07-31 18:12:31] Compressed 5 files: 0.00MB → 0.00MB (Saved -0.00MB)
+[2025-07-31 18:12:31] Found 2 old log files in /var/www/laravel/public/logs
+[2025-07-31 18:12:31] Compressed 2 files: 0.00MB → 0.00MB (Saved -0.00MB)
+[2025-07-31 18:12:31] Found 2 old log files in /var/www/laravel/storage/logs
+[2025-07-31 18:12:31] Compressed 2 files: 0.00MB → 0.00MB (Saved -0.00MB)

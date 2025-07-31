@@ -7,5 +7,5 @@ log_directories:
 min_days_old: 7
 compression_format: "tar.gz"
 check_interval_seconds: 300
-nice_level: -n 19
+nice_level: 19
 ionice_class: 3
