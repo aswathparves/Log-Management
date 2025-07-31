@@ -1,0 +1,11 @@
+disk_path: "/"
+threshold_percent: 1
+log_directories:
+  - "/var/log/apache2/"
+  - "/var/www/laravel/public/logs"
+  - "/var/www/laravel/storage/logs"
+min_days_old: 7
+compression_format: "tar.gz"
+check_interval_seconds: 300
+nice_level: -n 19
+ionice_class: 3
