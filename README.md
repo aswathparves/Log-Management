@@ -91,5 +91,5 @@ sudo python3 disklogmanager.py
 ```
 **Test**
 
-**- checking**
+- **checking**
 
