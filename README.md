@@ -84,3 +84,6 @@ sudo python3 disklogmanager.py
    - Removes original uncompressed files after compression.
 3. **Keeps logging live** — Apache/Nginx/Laravel keep writing to their active logs.
 
+## This is smaple one
+
+
